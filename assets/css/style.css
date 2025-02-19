@@ -2,9 +2,7 @@
   #style.css
 \*-----------------------------------*/
 
-/**
- * copyright 2022 codewithsadee
- */
+
 
 
 
@@ -367,8 +365,8 @@ body {
 }
 
 .hero-title {
-  color: var(--white);
-  font-size: var(--fs-1);
+  color: var(--chrome-yellow);
+  font-size: 3.8rem;
   margin-block-end: 20px;
 }
 

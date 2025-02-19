@@ -1,19 +1,19 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/desinic)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/desinic?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/desinic?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/  Ultimate Digital )
+  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/  Ultimate Digital ?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/  Ultimate Digital ?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
   [![YouTube Video Views](https://img.shields.io/youtube/views/SjhiZ_ySGzA?style=social)](https://youtu.be/SjhiZ_ySGzA)
 
   <br />
   <br />
 
-  <h2 align="center">Desinic - Agency website</h2>
+  <h2 align="center">  Ultimate Digital  - Agency website</h2>
 
-  Desinic is fully responsive agency website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+    Ultimate Digital  is fully responsive agency website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/desinic/"><strong>➥ Live Demo</strong></a>
+  <a href="https://codewithsadee.github.io/  Ultimate Digital /"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ### Demo Screeshots
 
-![Desinic Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![  Ultimate Digital  Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -31,18 +31,18 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Desinic** locally, run this command on your git bash:
+To run **  Ultimate Digital ** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/desinic.git
+sudo git clone https://github.com/codewithsadee/  Ultimate Digital .git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/desinic.git
+git clone https://github.com/codewithsadee/  Ultimate Digital .git
 ```
 
 ### Contact
