@@ -366,13 +366,13 @@ body {
 
 .hero-title {
   color: var(--chrome-yellow);
-  font-size: 3.8rem;
+  font-size: 5rem;
   margin-block-end: 20px;
 }
 
 .hero-text {
   color: var(--white);
-  font-size: var(--fs-8);
+  font-size: 1.8rem;
   margin-block-end: 30px;
 }
 
