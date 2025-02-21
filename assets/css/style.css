@@ -384,7 +384,22 @@ body {
   #ABOUT
 \*-----------------------------------*/
 
-.about-banner { margin-block-end: 30px; }
+
+.about-banner {
+  margin-block-end: 30px;
+  display: inline-block; /* Ensures the shadow applies correctly */
+}
+
+.about-banner img {
+  box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.3); /* Adjust shadow for a 3D look */
+  border-radius: 10px; /* Optional: Softens the edges */
+  transform: scale(1.01); /* Slight scaling for depth effect */
+  transition: transform 0.3s ease-in-out;
+}
+
+.about-banner img:hover {
+  transform: scale(1.03); /* Enhances 3D effect on hover */
+}
 
 .about .section-title { margin-inline: 0; }
 
